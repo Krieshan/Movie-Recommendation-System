@@ -1,1 +1,2 @@
-# This section contains all Machine Learning, SQL, R, Python projects.
+# Movie Recommendation system in R.
+# Following link was used: https://data-flair.training/blogs/data-science-r-movie-recommendation/
